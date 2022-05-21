@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Federico Torres, I am a recent graduate of the B.ENG Systems Engineering. I focussed my studies on mobile applications.
-- 👀 I’m interested in Swift/iOS Development, Java/Kotlin for Android.
-- 🌱 I’m currently learning Swift/iOS Development.
+- 👋 Hi, My name is Federico Torres, I am graduated of the B.ENG Systems Engineering. I focussed my studies on iOS mobile applications.
+- 👀 I’m interested in Swift/iOS Development, innovation and entrepreneurship.
+- 🌱 I’m always improving my skills in Swift/iOS Development.
 - 💞️ I’m looking to collaborate on developing new apps and test them in the market.
 - 📫 How to reach me: fede11.tm@gmail.com
