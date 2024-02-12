@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Federico Torres, I am a Software Engineering. I focussed my career on iOS mobile applications.
+- 👋 Hi, My name is Federico Torres, I am a Software Engineering with a certification in App Development with Swift - Certified User. Self-motivated enthusiasts with expertise in developing iOS e-commerce applications, utilizing Server-Side Swift with Vapor and SwiftUI. Experienced in designing iOS healthcare applications to facilitate the delivery of professional healthcare services using Swift and UIKit. Strong knowledge of mobile software architecture and design patterns.
 - 👀 I’m interested in Swift/iOS Development, innovation and entrepreneurship.
 - 🌱 I’m always improving my skills in Swift/iOS Development.
 - 💞️ I’m looking to collaborate on developing new apps and test them in the market.
